@@ -1,11 +1,11 @@
 # ======================================================================
-#	Author: 	Ivan Hazucha
-#	File: 		instructions.py
-#	Date: 		10/04/2018
+#	@Author: 	Ivan Hazucha
+#	@File: 		constants.py
+#	@Date: 		10/04/2018
 #
-#	Assignment: IPPcode18 XML representation Interpreter
+#	@Assignment: IPPcode18 XML representation Interpreter
 #
-#	TODO: [string regex pattern negative lookbehind fix]
+#	TODO: __blank__
 #
 # ======================================================================
 
