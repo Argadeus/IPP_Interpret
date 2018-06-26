@@ -34,7 +34,7 @@ class Arguments:
 
 	helpMessage = (
 		"-----------------------------------------------------------------------------------\n"
-		"Usage: interpret.py --file=file\n"
+		"Usage: interpret.py --source=<file>\n"
 		"-----------------------------------------------------------------------------------\n"
 		"Program reads XML representation of a program from a given file and which\n"
 		"it then interprets using standard intput and output. Input XML representation\n"
